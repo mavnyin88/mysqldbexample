@@ -1,0 +1,17 @@
+2015-12-09 22:41:55.463: CREATE DATABASE IF NOT EXISTS test
+2015-12-09 22:41:55.471: CREATE TABLE test.STUDENTS1 ( STUDENT_ID varchar(10) NOT NULL, FIRST_NAME varchar(15) NOT NULL, LAST_NAME varchar(20) NOT NULL, ADDRESS varchar(30) NOT NULL, CITY varchar(20) NOT NULL, STATE varchar(2) NOT NULL, ZIP varchar(5), PRIMARY KEY (STUDENT_ID) )
+2015-12-09 22:41:55.571: insert into  + dbName +.STUDENTS1  + values('10000001', 'Joe', 'Lambs', '88 Dragon Street', 'Linden', 'NY', '11414') 
+2015-12-09 22:41:55.572: insert into  + dbName +.STUDENTS1  + values('10000002', 'Johnny', 'NoNose', '8935 151th Avenue', 'Howard Beach', 'NY', '11212') 
+2015-12-09 22:41:55.573: insert into  + dbName +.STUDENTS1  + values('10000003', 'Henry', 'Etta', '23 Pikit Street', 'Miami', 'FL', '22931') 
+2015-12-09 22:41:55.574: insert into  + dbName +.STUDENTS1  + values('10000004', 'Michael', 'Onion', 'Golden Gate Drive', 'San Francisco', 'CA', '90210') 
+2015-12-09 22:41:55.575: insert into  + dbName +.STUDENTS1  + values('10000005', 'Stephanie', 'Flip', '8825 155th Avenue', 'Howard Beach', 'NY', '11413') 
+2015-12-09 22:41:55.576: insert into  + dbName +.STUDENTS1  + values('10000006', 'Sophia', 'Bush', '20 Gerad Street', 'Austin', 'TX', '32927') 
+2015-12-09 22:41:55.577: insert into  + dbName +.STUDENTS1  + values('10000007', 'Mia', 'Koon', '5423 Rush Drive', 'Queens', 'NY', '11717') 
+2015-12-09 22:41:55.578: insert into  + dbName +.STUDENTS1  + values('10000008', 'Frank', 'Sinatra', '12 Rat Pack Drive', 'Bronx', 'NY', '10301') 
+2015-12-09 22:41:55.579: insert into  + dbName +.STUDENTS1  + values('10000009', 'Amelia', 'Getta', '12 Tuscan Street', 'Cranford', 'NJ', '32531') 
+2015-12-09 22:41:55.58: insert into  + dbName +.STUDENTS1  + values('10000010', 'Jimmy', 'Fallon', '1105 Light Night Avenue', 'Manhattan', 'NY', '11212') 
+2015-12-09 22:41:55.581: insert into  + dbName +.STUDENTS1  + values('10000011', 'Liz', 'Felipo', '2323 Houst Drive', 'Hempstead', 'NY', '13412') 
+2015-12-09 22:41:55.582: insert into  + dbName +.STUDENTS1  + values('10000012', 'Warren', 'Bush', '65 Bucket Street', 'Arlington', 'TX', '32929') 
+2015-12-09 22:41:55.591: SELECT * FROM  + dbName +.STUDENTS1
+2015-12-09 22:41:55.63: UPDATE STUDENTS1 SET ADDRESS = '1101 Pleasant Drive', CITY = 'Surf City', STATE = 'NJ', ZIP = '53422'  WHERE STUDENT_ID = '10000011' 
+2015-12-09 22:41:55.632: DELETE FROM STUDENTS1 WHERE STUDENT_ID = 10000003

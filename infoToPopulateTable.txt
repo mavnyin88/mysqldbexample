@@ -1,0 +1,12 @@
+10000001/Joe/Lambs/88 Dragon Street/Linden/NY/11414
+10000002/Johnny/NoNose/8935 151th Avenue/Howard Beach/NY/11212
+10000003/Henry/Etta/23 Pikit Street/Miami/FL/22931
+10000004/Michael/Onion/Golden Gate Drive/San Francisco/CA/90210
+10000005/Stephanie/Flip/8825 155th Avenue/Howard Beach/NY/11413
+10000006/Sophia/Bush/20 Gerad Street/Austin/TX/32927
+10000007/Mia/Koon/5423 Rush Drive/Queens/NY/11717
+10000008/Frank/Sinatra/12 Rat Pack Drive/Bronx/NY/10301
+10000009/Amelia/Getta/12 Tuscan Street/Cranford/NJ/32531
+10000010/Jimmy/Fallon/1105 Light Night Avenue/Manhattan/NY/11212
+10000011/Liz/Felipo/2323 Houst Drive/Hempstead/NY/13412
+10000012/Warren/Bush/65 Bucket Street/Arlington/TX/32929
